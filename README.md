@@ -32,9 +32,3 @@ This project focuses on predicting the income group of borrowers on the Kiva cro
 - Python (pandas, numpy, matplotlib, seaborn)
 - scikit-learn (RandomForestClassifier, LabelEncoder)
 - Joblib 
-
-## Next Steps
-
-- Incorporate additional risk assessment metrics.
-- Experiment with hyperparameter tuning to improve prediction accuracy.
-- Explore alternative models and feature engineering techniques.
