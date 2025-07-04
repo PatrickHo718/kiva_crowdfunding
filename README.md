@@ -1,4 +1,4 @@
-# Kiva Crowdfunding Income Group Prediction
+# Kiva Crowdfunding Prediction
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ The dataset is from [Kiva Data Science for Good competition on Kaggle](https://w
 
 ## Methodology
 
-- Used Python and scikit-learn to build a Random Forest model to predict target variables.
+- Used Python and scikit-learn to build a Random Forest and XGB model to predict target variables.
 - Features, including loan attributes and borrower demographics, are all properly encoded.
 - Model evaluation was performed using precision, recall, F1-score, and confusion matrices to evaluate its performance.
 - Studied funding time (`days_to_fund`) as a proxy for lender hesitation and perceived borrower risk.
