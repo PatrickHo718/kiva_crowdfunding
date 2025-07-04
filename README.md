@@ -4,7 +4,7 @@
 
 This project focuses on predicting the income group of borrowers and days to fund on the Kiva crowdfunding platform using machine learning. The goal is to analyze borrower profiles and loan features to classify borrowers into income categories, which can help in understanding financial accessibility and risk patterns.
 
-The dataset used is from this site on here [Kiva Data Science for Good competition on Kaggle](https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding)
+The dataset is from [Kiva Data Science for Good competition on Kaggle](https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding).
 
 ## Data
 
